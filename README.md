@@ -1,5 +1,4 @@
 # WeatherProof: Leveraging Language Guidance for Semantic Segmentation in Adverse Weather
-Yunhao Ba<sup>1*</sup>, Howard Zhang<sup>1*</sup>, Ethan Yang<sup>1</sup>, Akira Suzuki<sup>1</sup>, Arnold Pfahnl<sup>1</sup>, Chethan Chinder Chandrappa<sup>1</sup>, Celso de Melo<sup>2</sup>, Suya You<sup>2</sup>, Stefano Soatto<sup>1</sup>, Alex Wong<sup>3</sup> Achuta Kadambi<sup>1</sup>
 Blake Gella<sup>1*</sup>, Howard Zhang<sup>1*</sup>, Rishi Upadhyay<sup>1</sup>, Tiffany Chang<sup>1</sup>, Nathan Wei<sup>1</sup>, Matthew Waliman<sup>1</sup>, Yunhao Ba<sup>1</sup>, Celso de Melo<sup>3</sup>, Alex Wong<sup>2</sup>, Achuta Kadambi<sup>1</sup>
 University of California, Los Angeles<sup>1</sup>, Yale University<sup>2</sup>, US Army Research Laboratory<sup>3</sup>
 
